@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I'm a Senior Software Engineer, currently working at Pickleball.com<br>🌱 I am currently enhancing my skills in DevOps, focusing on automating and streamlining software development and deployment processes.
 
 
